@@ -1,46 +1,61 @@
-SCAL LAB: PCB Design – Automated Cooking Stove (Practice Projects)
-This repository contains PCB design practice work initially intended for an automated cooking stove project. Although the final implementation using a PCB was not pursued, the repository includes schematic and board layouts for practice circuits developed during the exploration phase.
+# SCAL LAB: PCB Design – Automated Cooking Stove (Practice Projects)
 
-Tool Used: Autodesk EAGLE EDA
+This repository contains PCB design practice work initially intended for an automated cooking stove project. Although the final implementation using a PCB was dropped, the repository includes schematic and board layouts for circuits designed during the exploration and learning phase.
 
-🚀 Project Collaboration
-Worked in collaboration with Naman Jain and Chiranjit Saha to explore the integration of an IoT network for an automated gas stove. The system comprised:
+## 🔧 Tool Used
 
-Temperature Sensor
+- [Autodesk EAGLE EDA](https://www.autodesk.com/products/eagle/overview)
 
-Humidity Sensor
+## 🤝 Collaborators
 
-Servo Motor
+Worked with **Naman Jain** and **Chiranjit Saha** to conceptualize and partially prototype an IoT-enabled automated gas stove. The system architecture included:
 
-Spark Plug
+- 🔥 Spark Plug  
+- 🌡️ Temperature Sensor  
+- 💧 Humidity Sensor  
+- 🔁 Servo Motor
 
-These components were part of the intended control logic to automate ignition and cooking parameters.
+These components were to be integrated for automatic gas ignition and control based on environmental conditions.
 
-🧩 Schematic Design
-Below is one of the circuit schematics created using EAGLE:
+## 🧩 Practice Circuit Schematic
 
-<!--https://github.com/0605akj0605/SCAL-LAB-PCB-DESIGNS/blob/main/schematic_gas_stove.jpg-->
+One of the practice schematic designs is shown below:
 
-Ensure that you place your schematic image in the specified folder (/images) or adjust the path accordingly.
+![Circuit Schematic](# SCAL LAB: PCB Design – Automated Cooking Stove (Practice Projects)
 
-📁 Repository Structure
-Copy
-Edit
-├── board_files/
-│   └── *.brd
-├── schematic_files/
-│   └── *.sch
-├── images/
-│   └── schematic_example.png
-└── README.md
-🛠️ Skills & Tools Practiced
-PCB Schematic & Layout Design
+This repository contains PCB design practice work initially intended for an automated cooking stove project. Although the final implementation using a PCB was dropped, the repository includes schematic and board layouts for circuits designed during the exploration and learning phase.
 
-EAGLE Board Design Workflow
+## 🔧 Tool Used
 
-Collaborative Design Process
+- [Autodesk EAGLE EDA](https://www.autodesk.com/products/eagle/overview)
 
-IoT System Integration Planning
+## 🤝 Collaborators
 
-📝 Note
-Although this project was not fabricated, it served as a valuable learning experience in PCB design and IoT hardware planning.
+Worked with **Naman Jain** and **Chiranjit Saha** to conceptualize and partially prototype an IoT-enabled automated gas stove. The system architecture included:
+
+- 🔥 Spark Plug  
+- 🌡️ Temperature Sensor  
+- 💧 Humidity Sensor  
+- 🔁 Servo Motor
+
+These components were to be integrated for automatic gas ignition and control based on environmental conditions.
+
+## 🧩 Practice Circuit Schematic
+
+One of the practice schematic designs is shown below:
+
+![Circuit Schematic](schematic_gas_stove.jpg) <!-- Make sure this path matches your repo file structure -->
+
+
+## 🛠️ Skills Practiced
+
+- PCB Schematic & Layout Design
+- EAGLE Board Design Workflow
+- IoT Hardware Integration
+- Collaborative Design Planning
+
+## 📌 Disclaimer
+
+These PCB designs were created for educational and practice purposes only and are not part of a finalized or fabricated product.
+
+
