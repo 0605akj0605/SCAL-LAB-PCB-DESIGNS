@@ -12,9 +12,12 @@ Also, it contains the hardware   integrated schematic to act as a proof of conce
 
 Worked with **Naman Jain** and **Chiranjit Saha** to conceptualize and partially prototype an IoT-enabled automated gas stove. The system architecture included:
 
-- 🔥 Spark Plug  (to ignite the gas)
-- 🌡️ Temperature Sensor (to monitor the flame temperature)
-- 🔁 Servo Motor (to rotate the stove knob)
+- Spark Plug  (to ignite the gas)
+- Temperature Sensor (to monitor the flame temperature)
+- MQ-7 gas sensor (for monitoring the flame)
+- Servo Motor (to rotate the stove knob)
+- ESP32 for sending data to and from the IoT cloud service, ThingSpeak.
+- Arduino MEGA for reading the sensor values and communicating the same with ESP32 over the UART protocol.
 
 These components were to be integrated for automatic gas ignition and control based on environmental conditions.
 
