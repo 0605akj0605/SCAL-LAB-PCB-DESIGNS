@@ -1,4 +1,4 @@
-# SCAL LAB: PCB Design – Automated Cooking Stove 
+# SCAL LAB: PCB Design and Hardware Integration– Automated Cooking Stove 
 
 This repository contains PCB designs initially intended for an automated cooking stove project and the IoT hardware schematic for the proposed gas stove. Although the final implementation using a PCB was dropped, the repository includes schematic and board layouts for circuits designed during the exploration and learning phase.
 Also, it contains the hardware   integrated schematic to act as a proof of concept for the proposed stove.
