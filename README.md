@@ -1,6 +1,7 @@
 # SCAL LAB: PCB Design – Automated Cooking Stove 
 
-This repository contains PCB design practice work initially intended for an automated cooking stove project. Although the final implementation using a PCB was dropped, the repository includes schematic and board layouts for circuits designed during the exploration and learning phase.
+This repository contains PCB designs initially intended for an automated cooking stove project and the IoT hardware schematic for the proposed gas stove. Although the final implementation using a PCB was dropped, the repository includes schematic and board layouts for circuits designed during the exploration and learning phase.
+Also, it contains the hardware   integrated schematic to act as a proof of concept for the proposed stove.
 
 
 ## 🔧 Tool Used
@@ -11,10 +12,9 @@ This repository contains PCB design practice work initially intended for an auto
 
 Worked with **Naman Jain** and **Chiranjit Saha** to conceptualize and partially prototype an IoT-enabled automated gas stove. The system architecture included:
 
-- 🔥 Spark Plug  
-- 🌡️ Temperature Sensor  
-- 💧 Humidity Sensor  
-- 🔁 Servo Motor
+- 🔥 Spark Plug  (to ignite the gas)
+- 🌡️ Temperature Sensor (to monitor the flame temperature)
+- 🔁 Servo Motor (to rotate the stove knob)
 
 These components were to be integrated for automatic gas ignition and control based on environmental conditions.
 
