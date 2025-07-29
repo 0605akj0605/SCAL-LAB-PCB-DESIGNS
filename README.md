@@ -1,4 +1,4 @@
-# SCAL LAB: PCB Design – Automated Cooking Stove (Practice Projects)
+# SCAL LAB: PCB Design – Automated Cooking Stove 
 
 This repository contains PCB design practice work initially intended for an automated cooking stove project. Although the final implementation using a PCB was dropped, the repository includes schematic and board layouts for circuits designed during the exploration and learning phase.
 
