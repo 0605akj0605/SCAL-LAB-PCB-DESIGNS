@@ -19,7 +19,7 @@ These components were part of the intended control logic to automate ignition an
 🧩 Schematic Design
 Below is one of the circuit schematics created using EAGLE:
 
-<!-- https://github.com/0605akj0605/SCAL-LAB-PCB-DESIGNS/blob/main/schematic_gas_stove.jpg -->
+<!--https://github.com/0605akj0605/SCAL-LAB-PCB-DESIGNS/blob/main/schematic_gas_stove.jpg-->
 
 Ensure that you place your schematic image in the specified folder (/images) or adjust the path accordingly.
 
