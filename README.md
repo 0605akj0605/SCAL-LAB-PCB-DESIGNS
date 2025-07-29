@@ -37,6 +37,7 @@ One of the practice schematic designs is shown below:
 
 ## 📌 Disclaimer
 
-These PCB designs were created for educational and practice purposes only and are not part of a finalized or fabricated product.
+These PCB designs and hardware schematics are not part of a finalized or fabricated product, as the project was called off post the summer of 2024 after my internship duration.
+
 
 
